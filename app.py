@@ -452,7 +452,7 @@ def home():
         "status": "running",
         "version": "OB54",
         "endpoint": "/info?uid=UID",
-        "example": "/info?uid=9987215650",
+        "example": "/info?uid=2084018498",
         "priority": "BD → IND → ME → Others",
         "credit": "@Z_7_KBot"
     })
